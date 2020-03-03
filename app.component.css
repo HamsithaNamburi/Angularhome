@@ -1,0 +1,9 @@
+.background{
+    background-image: url('src\assets\Images\image67.jpg');
+    height:800px;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+
+}
